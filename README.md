@@ -1,5 +1,5 @@
 # SUSMusic
-Building a social music app coupled with SUSTech's own features
+Building a social music app coupled with SUSTech's own features.
 
 :coffee: :coffee: :coffee: :coffee: :coffee: :coffee: :coffee:
 
